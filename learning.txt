@@ -1,3 +1,4 @@
 this is text file
 hi hello
 good day
+bye
